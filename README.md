@@ -1,16 +1,30 @@
-# React + Vite
+# The Zenith Suites Lekki
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-end, luxury landing page built for exclusivity and security in the heart of Lekki, Lagos.
 
-Currently, two official plugins are available:
+## 🌟 Key Features
+- **Minimalist Design**: A premium Black, Gold, and White aesthetic with glassmorphism and smooth animations.
+- **Lagos-Centric Copy**: Optimized for the Lekki elite market, focusing on "No Power Outages", "Lag-free Starlink WiFi", and "Discreet Service".
+- **WhatsApp Booking**: A custom form that automates direct lead capture with a 15% discount note.
+- **Responsive & Optimized**: Fully mobile-friendly with high performance and SEO meta tags.
+- **High-Fidelity Assets**: Custom-generated luxury interior and exterior pool visuals.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠 Tech Stack
+- **Foundation**: [Vite](https://vitejs.dev/) + [React](https://reactjs.org/)
+- **Styling**: [Vanilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (No frameworks for maximum speed and control)
+- **Typography**: [Bodoni Moda](https://fonts.google.com/specimen/Bodoni+Moda) (Serif) & [Inter](https://fonts.google.com/specimen/Inter) (Sans)
+- **Icons**: Emoji Glyphs (Modern & Lightweight)
 
-## React Compiler
+## 🚀 Get Started Locally
+1. Clone the repository: `git clone <repository_url>`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+4. Access the site at: `http://localhost:5173/`
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📞 Contact Information
+- **Phone**: [+234 901 959 7944](https://wa.me/2349019597944)
+- **Email**: qaasimkids6@gmail.com
+- **Address**: Lekki Phase 1, Lagos, Nigeria.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📑 License
+© 2026 The Zenith Suites Lekki. Built for the Elite.
